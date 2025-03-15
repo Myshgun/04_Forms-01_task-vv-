@@ -64,6 +64,7 @@ input[type="password"]:focus {
 	outline: none;
 }
 
+input.form__input_error,
 input.form__input_error:focus {
 	border-color: #e74c3c !important;
 	box-shadow: 0 0 5px rgba(231, 76, 60, 0.5);
